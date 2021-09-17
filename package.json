@@ -13,5 +13,6 @@
 	}, 
 
 	"author": "KESA",
-	"description": "A project to improve my backend skills"
+	"description": "A project to improve my backend skills",
+	"keywords": [ "freecodecamp", "backend", "nodejs" ]
 }
